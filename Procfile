@@ -1,0 +1,1 @@
+web: gunicorn pdsar.wsgi --log-file -
